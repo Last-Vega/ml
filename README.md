@@ -1,2 +1,2 @@
 # ml
-introduction of machine learning
+tutorial of machine learning
